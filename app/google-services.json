@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970841498807",
+    "firebase_url": "https://grau-b-sistemas-moveis.firebaseio.com",
+    "project_id": "grau-b-sistemas-moveis",
+    "storage_bucket": "grau-b-sistemas-moveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970841498807:android:7601cfffebf330a43f1932",
+        "android_client_info": {
+          "package_name": "br.com.marlonbochi.graub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970841498807-4glordiul5nkt71ck5sakolh7a5o3phc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Dco2l6aroZAHFt5o76LzVutDuZGXmso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970841498807-4glordiul5nkt71ck5sakolh7a5o3phc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

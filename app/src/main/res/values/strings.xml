@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grau B</string>
+    <string name="txtEmail">E-mail:</string>
+    <string name="txtPassword">Senha:</string>
+    <string name="txtSignIn">Entrar</string>
+    <string name="txtLoginHeader">Para acessar o aplicativo utilize seu email e senha:</string>
+    <string name="txtCreate">Criar usuário</string>
+    <string name="txtGetAgenda">Pegar Agenda</string>
+    <string name="txtSaveCloud">Salvar no firebase</string>
+    <string name="txtContactCellphone">Contatos na agenda</string>
+    <string name="txtContactFirebase">Contatos no firebase</string>
+
+</resources>
