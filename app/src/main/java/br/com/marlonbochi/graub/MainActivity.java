@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
         currentUser = FirebaseAuth.getInstance().getCurrentUser();
 
-        if (currentUser.getEmail() == null) {
+        if (currentUser == null && currentUser.getEmail() == "") {
             goToLogin();
         }
 

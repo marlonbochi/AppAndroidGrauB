@@ -38,7 +38,7 @@ public class LoginActivity extends AppCompatActivity {
 
         FirebaseUser currentUser = mAuth.getCurrentUser();
 
-        if (currentUser.getEmail() != "") {
+        if (currentUser != null && currentUser.getEmail() != "") {
             goToHome();
         }
 
