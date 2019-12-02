@@ -9,5 +9,6 @@
     <string name="txtSaveCloud">Salvar no firebase</string>
     <string name="txtContactCellphone">Contatos na agenda</string>
     <string name="txtContactFirebase">Contatos no firebase</string>
+    <string name="logout">Sair</string>
 
 </resources>
